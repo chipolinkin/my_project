@@ -13,3 +13,5 @@ class ProductPageLocators():
     BOOK_NAME2 = (By.XPATH, "//*[@id='content_inner']/article/div[1]/div[2]/h1")
     BASKET_PRICE1 = (By.XPATH, "//*[@id='messages']/div[3]/div/p[1]/strong")
     BASKET_PRICE2 = (By.XPATH, "//*[@id='content_inner']/article/div[1]/div[2]/p[1]")
+    
+    
