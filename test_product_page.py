@@ -25,4 +25,5 @@ def test_add_product_to_basket(browser, link):
     page.right_name()
     page.right_price()
 
+    
 
